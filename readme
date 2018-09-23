@@ -1,0 +1,5 @@
+# Minimal hyperapp boilerplate
+
+A minimal hyperapp boilerplate that includes just JSX transpilation and SASS support. 
+
+ES5 transpilation not included.
